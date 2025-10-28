@@ -78,7 +78,6 @@ Due to licensing restrictions, the original dataset cannot be shared publicly. H
 - **Optimize real-time inference** to support live surgical monitoring.
 - **Enhance model explainability** for better adoption in clinical practice.
 
-For further details, please refer to the **full thesis document** in `Master_Thesis.pdf`.
 
 
 
